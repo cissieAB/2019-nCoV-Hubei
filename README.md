@@ -1,12 +1,7 @@
 # 2019-nCoV Data of Hubei Province
 
-> ***Learn from the past. Define the future.*** 
 
-
-
-The [**2019–20 Wuhan coronavirus outbreak**](https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak) has affected the whole world. Cities have been blocked and thousands of people have been infected.
-
-This ongoing project provides **ready-to-use** data on daily confirmed, cured, and dead persons **grouped by cities** of Hubei province, which is the origin of the virus outbreak. Please cite the source for public purpose.
+This ongoing project provides **ready-to-use** data on daily confirmed, cured, and dead persons **grouped by cities** of Hubei province, which is the origin of the [2019-nCoV](https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak) outbreak. Please cite the source for public purpose.
 
 
 
