@@ -9,9 +9,7 @@ This ongoing project provides **ready-to-use** data on daily confirmed, cured, a
 
 ### Raw data
 
-The raw data is in folder `csv_data` with names of `hubei_yyyy_mm_dd.csv`.
-
-Click [hubei_2020_02_06.csv](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/blob/master/csv_data/hubei_2020_02_06.csv)  to preview the data.
+Raw data is in folder [`csv_data`](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/tree/master/csv_data) with names of `hubei_yyyy_mm_dd.csv`. Click [hubei_2020_02_06.csv](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/blob/master/csv_data/hubei_2020_02_06.csv)  to preview the data.
 
 
 
@@ -19,9 +17,7 @@ Click [hubei_2020_02_06.csv](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Dat
 
 The provided data is getting with a third-party API: https://lab.isaaclin.cn/nCoV/, where the source is [Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia). 
 
-As the suspected count is no longer open to the public, the raw data contains confirmed, cured and dead counts only. Data is formed as tables and sorted by city names.
-
-If there are multiple records for the same day, use the most recent record. 
+As the suspected count is no longer open to the public, the raw data contains confirmed, cured and dead counts only. Data is formed as tables and sorted by city names. The most recent record is logged if there are multiple records for the same day. 
 
 
 
