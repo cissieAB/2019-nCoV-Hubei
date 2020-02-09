@@ -17,7 +17,9 @@ Raw data is in folder [`csv_data`](https://github.com/cissieAB/2019-nCoV_Hubei_c
 
 The provided data is getting with a third-party API: https://lab.isaaclin.cn/nCoV/, where the source is [Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia). 
 
-As the suspected count is no longer open to the public, the raw data contains confirmed, cured and dead counts only. Data is formed as tables and is sorted by city names. The most recent record is logged if there are multiple records for the same day. 
+Data is formed as tables and is sorted by city names. As the suspected count is no longer open to the public, the raw data contains confirmed, cured and dead counts only. 
+
+For the data uploaded after 2020 Feb 08, only one record is taken at a specific time every day. For the data before 2020 Feb 08, the most recent record is logged if there are multiple records for the same day. 
 
 
 
