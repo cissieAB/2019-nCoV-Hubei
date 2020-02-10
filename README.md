@@ -7,7 +7,7 @@ This ongoing project provides **ready-to-use** data on daily confirmed, cured, a
 
 ## Details
 
-**Raw data** is in folder [`csv_data`](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/tree/master/csv_data) with names of `hubei_yyyy_mm_dd.csv`. Click [hubei_2020_02_06.csv](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/blob/master/csv_data/hubei_2020_02_06.csv)  to preview the data.
+**Raw data** is in folder [`csv_data`](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/tree/master/csv_data) with names of `hubei_yyyy_mm_dd.csv`. Click [hubei_2020_02_06.csv](https://github.com/cissieAB/2019-nCoV_Hubei_csv_Data/blob/master/csv_data/hubei_2020_02_06.csv)  to preview.
 
 - Data is getting with a third-party API: https://lab.isaaclin.cn/nCoV/, where the source is [Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia). 
 
