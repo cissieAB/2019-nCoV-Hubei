@@ -1,7 +1,7 @@
 # 2019-nCoV Data of Hubei Province
 
 
-This project provides **ready-to-use** data on daily confirmed, cured, and dead counts **grouped by cities** of Hubei province, which is the origin of the [2019-nCoV](https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak) outbreak. It is continuously updated with the most recent data. Please cite the source for public purpose.
+This project provides **ready-to-use** data on daily confirmed, cured, and dead counts **grouped by cities** of Hubei province, which is the center of the [2019-nCoV](https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak) outbreak. It is continuously updated with the most recent data. Please cite the source for public uses.
 
 
 
@@ -12,7 +12,7 @@ This project provides **ready-to-use** data on daily confirmed, cured, and dead 
 - Data is getting with a third-party API: https://lab.isaaclin.cn/nCoV/, where the source is [Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia). 
 
 - Data is formed as tables and is sorted by city names.
-- Data fields include firmed, cured and dead counts. Suspected count is no longer available.
+- Data fields include firmed, cured and dead counts. Suspected counts is no longer available.
 - After 2020 Feb 08, data is pushed at a specific time every day. Before that, the most recent record is uploaded if there are multiple records of the same day. 
 
 
