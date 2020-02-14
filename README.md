@@ -15,7 +15,7 @@ This project provides **ready-to-use** data on daily confirmed, cured, and dead 
 
 - Data fields include confirmed, current confirmed (optional), cured and dead counts. Suspected counts is no longer available on [Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia).
 
-  `current confirmed = confirmed - cured - dead`
+  > current confirmed = confirmed - cured - dead
 
 - After 2020 Feb 08, data is pushed at a specific time every day. Before that, the most recent record is uploaded if there are multiple records of the same day. 
 
