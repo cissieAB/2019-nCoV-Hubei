@@ -30,7 +30,8 @@ You can create the city-based data of other provinces with [the sample code]().
 ## Acknowledgement
 
 1. [DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler): https://github.com/BlankerL/DXY-2019-nCoV-Crawler
-2. [DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data): https://github.com/BlankerL/DXY-2019-nCoV-Data
+
+   
 
 
 
