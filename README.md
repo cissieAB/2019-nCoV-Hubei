@@ -1,7 +1,7 @@
 # 2019-nCoV Data of Hubei Province
 
 
-This project provides **ready-to-use** data on daily confirmed, cured, and dead counts **grouped by cities** of Hubei province, which is the center of the [2019-nCoV](https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak) outbreak. It is continuously updated with the most recent data. Please cite the source for public uses.
+This repository provides **ready-to-use** data on daily confirmed, cured, and dead counts **grouped by cities** of Hubei province, which is the center of the [2019-nCoV](https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak) outbreak. It is continuously updated with the most recent data. Please cite the source for public uses.
 
 
 
